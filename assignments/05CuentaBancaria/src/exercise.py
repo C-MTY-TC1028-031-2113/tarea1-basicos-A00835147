@@ -1,5 +1,4 @@
 def main():
-    #escribe tu código abajo de esta línea
     s=float(input("Dame el saldo del mes anterior: "))
     i=float(input("Dame los ingresos: "))
     e=float(input("Dame los egresos: "))

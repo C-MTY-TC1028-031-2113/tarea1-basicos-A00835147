@@ -1,6 +1,5 @@
 import math
 def main():
-    #from math import sqrt
     a=int(4)
     b=int(5)
     op1=float((2*(3/4))+(4*(2/3))-(3*(1/5))+(5*(1/2))) 
