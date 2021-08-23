@@ -7,8 +7,7 @@ Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise
 ```python
 def main():
     #escribe tu código abajo de esta línea
-    pass
-
+    
 if __name__ == '__main__':
     main()
 ```
